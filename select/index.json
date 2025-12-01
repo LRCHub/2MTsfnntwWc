@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Little Boy In The Grass",
+  "base_artist": "AURORA",
+  "createdAt": "2025-12-01T04:07:43.545511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Boy in the Grass",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/01_Little_Boy_in_the_Grass_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Little Boy In The Grass",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/02_Little_Boy_In_The_Grass_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Little Boy in the Grass",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/03_Little_Boy_in_the_Grass_AURORA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little Boy In The Grass",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/04_Little_Boy_In_The_Grass_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Boy In The Grass",
+      "artist": "Aurora",
+      "has_synced": true,
+      "path": "select/05_Little_Boy_In_The_Grass_Aurora.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Little Boy In The Grass",
+      "artist": "Aurora",
+      "has_synced": false,
+      "path": "select/pl_01_Little_Boy_In_The_Grass_Aurora.txt"
+    }
+  ]
+}
